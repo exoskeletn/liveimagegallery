@@ -1,1 +1,1 @@
-image gallery for my website.
+image gallery.
